@@ -6,7 +6,7 @@ Sales and Customer Insights Dashboard for a Pet Grooming & Retail Business using
 **Dataset:** Pet Grooming and Retail Store Reports  
 **Timeline:** [November, 2024 - June, 2025]
 ---
-## 📌 Overview
+##  Overview
 
 This project analyzes sales, customer, and product and service performance data from a real pet grooming and retail business. The goal is to uncover insights into:
 
@@ -17,7 +17,7 @@ This project analyzes sales, customer, and product and service performance data 
 - High-performing product categories and opportunities for promotion
 ---
 
-## 📂 Dataset Summary
+##  Dataset Summary
 
 **Data sources used:**
 - `Monthly sales report`
@@ -33,7 +33,7 @@ This project analyzes sales, customer, and product and service performance data 
 - Month & Year
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 ### 1. **Monthly Revenue Trend**
 > Visualizes how revenue has changed month-over-month  
@@ -55,13 +55,13 @@ This project analyzes sales, customer, and product and service performance data 
 > Comparison between product and service unit sale value  
 *Insight:* Average sale per service is much higher than product.
 
-## 📈 Business Insights
+##  Business Insights
 
 - Product sales are under-leveraged compared to services. Promoting best-sellers like dog treats or birthday cakes could increase profit.
 - Customer growth is steady. Monthly transaction count grows faster than new customers, indicating higher retention or upselling.
 - Services dominate revenue. However, products offer better margins per item and can boost profitability if promoted more.
 
-## 🛠️ Skills Demonstrated
+## 🛠 Skills Demonstrated
 
 - Data cleaning and model setup in Power BI
 - DAX Measures: `AvgSalePerItem`, `AvgSalePerTransaction`
