@@ -61,7 +61,7 @@ This project analyzes sales, customer, and product and service performance data 
 - Customer growth is steady. Monthly transaction count grows faster than new customers, indicating higher retention or upselling.
 - Services dominate revenue. However, products offer better margins per item and can boost profitability if promoted more.
 
-## 🛠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data cleaning and model setup in Power BI
 - DAX Measures: `AvgSalePerItem`, `AvgSalePerTransaction`
