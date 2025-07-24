@@ -6,65 +6,16 @@ Sales and Customer Insights Dashboard for a Pet Grooming & Retail Business using
 **Dataset:** Pet Grooming and Retail Store Reports  
 **Timeline:** [November, 2024 - June, 2025]
 ---
-##  Overview
+## Background & Overview
 
-This project analyzes sales, customer, and product and service performance data from a real pet grooming and retail business. The goal is to uncover insights into:
+Woof Gang Bakery & Grooming Merrick Park is one of the franchise's newest locations in South Florida. Established in November 2024 in the city of Coral Gables, this grooming and retail store is the leader in its niche offering a luxury service all the way from gourmet organic treats to blueberry facials for dogs.
 
-- What products and services generate the most revenue
-- Understand Monthly revenue trends by seasons
-- How customer and transaction trends evolve over time
-- Key differences in pricing behavior between services and retail
-- High-performing product categories and opportunities for promotion
----
+The company has a great amount of data on its sales, products and services, marketing efforts, and customer analysis that has been previously utilized. This project thoroughly analyzes this data to uncover insights that will help owners understand trends and ultimately improve the location's revenue. 
 
-##  Dataset Summary
+Insights and recommendations are provided on the following areas:
 
-**Data sources used:**
-- `Monthly sales report`
-- `Best sellers report`
-- `Customer analysis report`
+## Executive Summary
+# Overview of Findings
 
-**Key fields:**
-- Product/Service names
-- Sales totals
-- Customer count
-- Transaction count
-- Item type (Product or Service)
-- Month & Year
----
-
-##  Key Visualizations
-
-### 1. **Monthly Revenue Trend**
-> Visualizes how revenue has changed month-over-month  
- *Insight:* Monthly revenue has been increasing over month.
-
-### 2. **Monthly Revenue Trend By Tipe**
-> Comparison between service and retail revenue
- *Insight:* Service revenue is the main source of income, which regularly accounts for 70–80% of total revenue each month.
-
-### 3. **Top 10 Products & Services by Revenue**
-> Bar chart showing top earners  
-*Insight:* Services generate the most revenue, but products have higher price per unit.
-
-### 4. **Customer + Transaction Trend**
-> Line graph showing customer count vs. transactions per month  
- *Insight:* Transaction volume and customer count follow similar seasonal patterns.
-
-### 5. **Avg. Sale Per Item by Type**
-> Comparison between product and service unit sale value  
-*Insight:* Average sale per service is much higher than product.
-
-##  Business Insights
-
-- Product sales are under-leveraged compared to services. Promoting best-sellers like dog treats or birthday cakes could increase profit.
-- Customer growth is steady. Monthly transaction count grows faster than new customers, indicating higher retention or upselling.
-- Services dominate revenue. However, products offer better margins per item and can boost profitability if promoted more.
-
-##  Skills Demonstrated
-
-- Data cleaning and model setup in Power BI
-- DAX Measures: `AvgSalePerItem`, `AvgSalePerTransaction`
-- KPIs, card visuals, and trend lines
-- Business storytelling through visuals
+According to the analysis, this new store's overall revenue increased by more than 90% between November 2024 and June 2025, with both service and retail sales showing steady increases.  While retail sales are steady but underleveraged, service transactions make up the majority of revenue, accounting for an average of 80% of monthly earnings.  Compared to retail products, the average sale per service is much greater, which may indicate chances for upselling or pricing.  Additionally, customer and transaction volumes are steadily increasing, which suggests higher levels of engagement and improved operational effectiveness.  In order to pinpoint areas for revenue optimization and strategic focus, the study that follows examines customer behavior, seasonal trends, and product-level performance.
 
